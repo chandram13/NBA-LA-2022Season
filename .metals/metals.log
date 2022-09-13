@@ -1,0 +1,11 @@
+2022.09.13 16:40:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season/.metals/lsp.trace.json or /Users/MarvishChandra/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.09.13 16:40:57 INFO  logging to file /Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season/.metals/metals.log
+2022.09.13 16:40:57 INFO  Started: Metals version 0.11.8 in workspace '/Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season' for client Visual Studio Code 1.71.1.
+2022.09.13 16:40:58 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.09.13 16:40:58 INFO  time: initialize in 1.34s
+2022.09.13 16:41:00 WARN  Build server is not auto-connectable.
+2022.09.13 16:41:00 WARN  no build target for: /Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season/src/main/scala/Main.scala
+2022.09.13 16:41:03 INFO  no build target found for /Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.09.13 16:41:04 INFO  time: code lens generation in 4.56s
+2022.09.13 16:41:17 WARN  no build target for: /Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season/src/main/scala/Main.scala
+2022.09.13 16:41:33 WARN  no build target for: /Users/MarvishChandra/Visual Studio Projects/ScalaProjects/learningscala/nba-la-2022season/src/main/scala/Main.scala
